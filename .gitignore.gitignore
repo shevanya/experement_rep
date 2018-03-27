@@ -1,0 +1,6 @@
+*.md
+/fonts
+/img
+
+/css/font-awesome.css
+/css/normalize.css
